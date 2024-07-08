@@ -1,0 +1,41 @@
+
+.bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.person-name {
+    text-align: center;
+    color: white;
+    font-family: Roboto;
+    background-color: #323f4b;
+    font-size: 80px;
+    padding: 2px;
+}
+
+.sender-message {
+    font-family: roboto;
+    color: white;
+    text-align: right;
+    background-color: #47a3f3;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    font-size: 15px;
+    padding: 10px;
+    margin: 15px;
+}
+
+.rec-message {
+    font-family: roboto;
+    color: white;
+    text-align: left;
+    background-color: #52606d;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    font-size: 15px;
+    padding: 10px;
+    margin: 15px;
+}
