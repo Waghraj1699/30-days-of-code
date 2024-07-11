@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.vr-optics-controllers-section {
+    background-color: white;
+}
+
+.vr-optics-controllers-heading {
+    font-family: "Roboto";
+    color: #1f2933;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.vr-optics-controllers-description {
+    font-family: "Roboto";
+    color: #7b8794;
+    font-size: 16px;
+}
+
+.vr-optics-controllers-button {
+    color: #ffffff;
+    background-color: #1a2137;
+    border-width: 0px;
+    height: 38px;
+    width: 100px;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 14px;
+}
