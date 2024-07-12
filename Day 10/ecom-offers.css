@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.e-offers-bg {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    height: 100vh;
+}
+
+.e-offer-img {
+    height: 220px;
+}
+
+.e-app-img {
+    height: 250px;
+}
+
+.e-dis-img {
+    height: 80px;
+}
+
+.e-offer-head {
+    color: #ad2167;
+    font-family: "Bree Serig";
+    font-size: 20px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.e-offer-desc {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-right: 12px;
+}
+
+.e-cash {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.e-offer-img2 {
+    height: 100px;
+}
